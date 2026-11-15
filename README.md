@@ -2,8 +2,8 @@
 
 **A theoretical model of computational resource allocation across heterogeneous AI tasks**
 
-[Author Name]  
-[Institution / Department]  
+Aishaani Bajaj 
+University of Petroleum and Energy Studies 
 *Conference: IIT Roorkee: CARE*
 
 ---
@@ -541,7 +541,7 @@ OECD. (2022). *Measuring the environmental impacts of artificial intelligence co
 
 ## 14. Acknowledgements
 
-I gratefully acknowledge Prof. [Supervisor's Full Name] for their valuable guidance, insightful feedback and continued support throughout this research. I also thank the Centre for Artificial Intelligence and Robotics (CARE), IIT Roorkee, for providing the opportunity to present this work.
+I gratefully acknowledge Dr. Awadh Pratap Singh for their valuable guidance, insightful feedback and continued support throughout this research. I also thank the Centre for Artificial Intelligence and Robotics (CARE), IIT Roorkee, for providing the opportunity to present this work.
 
 ---
 
