@@ -2,8 +2,7 @@
 
 **A theoretical model of computational resource allocation across heterogeneous AI tasks**
 
-Aishaani Bajaj, University of Petroleum and Energy Studies 
-*Conference: IIT Roorkee: CARE*
+Aishaani Bajaj, University of Petroleum and Energy Studies, *Conference: IIT Roorkee: CARE*
 
 ---
 
