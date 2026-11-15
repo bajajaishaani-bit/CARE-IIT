@@ -471,65 +471,10 @@ Several limitations should be recognised:
 
 These assumptions provide analytical tractability but limit the direct empirical interpretation of the numerical results.
 
----
-
-## 11. Repository Structure
-
-The repository is organised around the analytical and computational stages of the project.
-
-```text
-Thinking-at-a-Cost/
-│
-├── README.md
-│
-├── notebooks/
-│   ├── 01_Model_and_Welfare_Landscape.ipynb
-│   ├── 02_Optimality_and_KKT_Validation.ipynb
-│   ├── 03_Comparative_Statics.ipynb
-│   ├── 04_Robustness_and_Parameter_Sensitivity.ipynb
-│   └── 05_Final_Results_and_Figures.ipynb
-│
-├── figures/
-│   ├── welfare_landscape.png
-│   ├── allocation_comparison.png
-│   └── allocation_tradeoff_map.png
-│
-└── requirements.txt
-```
-
-*The filenames and directory structure can be updated to match the final uploaded repository.*
 
 ---
 
-## 12. Reproducibility
-
-The numerical analysis is implemented in Python using Jupyter notebooks.
-
-To reproduce the analysis:
-1. Clone or download this repository.
-2. Install the required Python packages.
-3. Open the notebooks in the numbered order.
-4. Run the cells sequentially to reproduce the optimisation results, comparative statics and figures.
-
-Typical dependencies include:
-- Python 3
-- NumPy
-- SciPy
-- Pandas
-- Matplotlib
-- Jupyter Notebook
-
-If a `requirements.txt` file is provided, dependencies can be installed using:
-
-```bash
-pip install -r requirements.txt
-```
-
-The notebooks contain the numerical implementation and visualisations accompanying the analytical framework.
-
----
-
-## 13. References
+## 11. References
 
 Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics*, 3645–3650.
 
@@ -537,7 +482,7 @@ OECD. (2022). *Measuring the environmental impacts of artificial intelligence co
 
 ---
 
-## 14. Acknowledgements
+## 12. Acknowledgements
 
 I gratefully acknowledge Dr. Awadh Pratap Singh for their valuable guidance, insightful feedback and continued support throughout this research. I also thank the Centre for Artificial Intelligence and Robotics (CARE), IIT Roorkee, for providing the opportunity to present this work.
 
