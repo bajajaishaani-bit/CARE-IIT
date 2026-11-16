@@ -484,7 +484,7 @@ OECD. (2022). *Measuring the environmental impacts of artificial intelligence co
 
 ## 12. Acknowledgements
 
-I gratefully acknowledge Dr. Awadh Pratap Singh for their valuable guidance, insightful feedback and continued support throughout this research. I also thank the Centre for Artificial Intelligence and Robotics (CARE), IIT Roorkee, for providing the opportunity to present this work.
+I gratefully acknowledge Dr. Awadh Pratap Singh for his valuable guidance, insightful feedback and continued support throughout this research. I also thank the Centre for Artificial Intelligence and Robotics (CARE), IIT Roorkee, for providing the opportunity to present this work.
 
 ---
 
